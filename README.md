@@ -45,21 +45,15 @@ Below is an overview of the project
 - Collaboration, workspace, access permissions in PowerBi services etc..
 
 ***
-## 📄 Business terminologies
-- Year to Date , Year to Go, Landing Estimates
-- Fiscal Year
-- Profit and Loss Statement
-- Pre Invoice / Post Invoice
-- Gross price
-- Net Invoice sale
-- Gross Margin
-- Net sales
-- Net profit
-- COGS - cost of goods sold
-- Direct
-- Retailer
-- Distributors
-- Consumer
+## 📄 Key Learnings from the Project
+- Integrated Dashboards Matter: A unified view across departments leads to faster, more informed decisions.
+- Power BI vs Excel: Excel limits deep analysis, whereas modern tools like Power BI unlock richer insights.
+- Cross-Functional Analysis: Evaluating finance, sales, marketing, and supply chain data together reveals hidden performance drivers.
+- Profitability Awareness: Revenue growth doesn’t guarantee profit; tracking cost structures and performance is essential.
+- KPI Monitoring: Regular tracking of key metrics enables early identification of issues and opportunities for improvement.
+- Benchmarking & Trend Analysis: Year-over-year comparisons enhance strategic planning and forecasting accuracy.
+- Data-Driven Culture: Transitioning to dashboards reinforces the importance of data-backed decision-making across the organization.
+
 
 ***
 
