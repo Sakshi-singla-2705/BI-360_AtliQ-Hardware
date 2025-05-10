@@ -1,5 +1,6 @@
 # 📊 Business Insights 360 - AtliQ Hardware
 AtliQ Hardware is a fast-growing electronics company operating in multiple countries. Despite their expansion, they still use Excel files to analyze their business data. However, Excel files can be difficult to work with and don’t provide deep insights. Because of this lack of effective data analysis, the company suffered a major financial loss in Latin America.
+
 To improve decision-making, AtliQ Hardware uses the Business Insights 360 report. This report gives valuable insights across important departments like Finance, Sales, Marketing, Supply Chain, Product Development, and Executive Management. With this information, the company can make smarter choices and avoid future losses.
 
 Check out the interactive dashboard  [BI-360](https://app.powerbi.com/view?r=eyJrIjoiN2QxMjg5OTYtZWFhOC00MGI5LThlNTAtNzJkYTY0ZTY3YWVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
@@ -67,7 +68,7 @@ Below is an overview of the project
 - Established relationships among 15 data tables to ensure data integrity
 - Maintained accurate table connections to support reliable and meaningful insights
 
-<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Model%20View%20-%201.PNG" class="center">
+<img src="https://github.com/Sakshi-singla-2705/BI-360_AtliQ-Hardware/blob/main/Model_View_0012.jpg" class="center">
 
 ***
 ## HomePage view
@@ -75,7 +76,7 @@ In the Home view, users can access all available view buttons. By clicking a but
 - The Home view includes links to key department dashboards such as Finance, Sales, Marketing, Supply Chain, Executive, and Products.
 - It also provides access to an Information page and a Support section.
 
-<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/HomePage_page-0001.jpg" class="center">
+<img src="https://github.com/Sakshi-singla-2705/BI-360_AtliQ-Hardware/blob/main/Home_page-0001.jpg" class="center">
 
 ***
 ## Finance view
@@ -87,7 +88,7 @@ In the Home view, users can access all available view buttons. By clicking a but
 - Trend analysis across the P&L components.
 - Identification of areas affecting profitability despite revenue growth.
   
- <img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Finance_page-0001.jpg" class="center">
+ <img src="https://github.com/Sakshi-singla-2705/BI-360_AtliQ-Hardware/blob/main/Finance_View_page-0003.jpg" class="center">
  
 ***
 ## Sales view
@@ -97,7 +98,7 @@ Net Sales (NS $), Gross Margin (GM), Gross Margin % (GM %). Helps understand whi
 - A performance matrix (scatter plot) showing customers from different regions positioned based on their sales volume (NS $) and profitability (GM %).
 - It helps identify high-revenue but low-margin customers and those that are both profitable and high-performing.
  
-<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Sales_page-0001.jpg" class="center">
+<img src="https://github.com/Sakshi-singla-2705/BI-360_AtliQ-Hardware/blob/main/Sales_View_page-0004.jpg" class="center">
 
 ***
 ## Marketing view
@@ -106,7 +107,7 @@ This report provides a high-level overview of product and regional performance, 
 - Visually positions product segments based on their sales and margin to identify strong vs weak performers.
 - Illustrates how Gross Margin is impacted by Operating Expenses and COGS.
 
-<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Marketing_page-0001.jpg" class="center">
+<img src="https://github.com/Sakshi-singla-2705/BI-360_AtliQ-Hardware/blob/main/Marketing_View_page-0005.jpg" class="center">
 
 ***
 ## Supply Chain view
@@ -115,22 +116,14 @@ This report gives a broad overview of how accurately demand was forecasted for d
 - Visualizes forecast performance over time, helping to spot months with major deviations or improvements.
 - Highlights major forecasting gaps across products, resulting in either excess inventory (EI) or out-of-stock (OOS) situations.
 
-<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Supply%20Chain_page-0001.jpg" class="center">
+<img src="https://github.com/Sakshi-singla-2705/BI-360_AtliQ-Hardware/blob/main/Supply_Chain_View_page-0006.jpg" class="center">
 
 ***
 ## Executive view
 This report provides a high-level view of overall business performance across regions, customers, and products, with a focus on profitability, efficiency, and market dynamics.
 
-<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Executive_page-0001.jpg" class="center">
+<img src="https://github.com/Sakshi-singla-2705/BI-360_AtliQ-Hardware/blob/main/Executive_View_page-0008.jpg" class="center">
 
-***
-## Products
-This report provides a general overview of product performance based on gross margin (GM%) growth across the portfolio and within a specific markets.
-- Highlights the top and bottom performing products in terms of gross margin growth, helping identify bestsellers and underperformers.
-- Allows comparison of current gross margin against last year to assess year-over-year performance at a product level.
-- Offers regional insight to understand localized product trends and potential areas needing pricing, cost, or strategy adjustments.
-
-<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Products_page-0001.jpg" class="center">
 
 ### **Explore the full project in this repository!**  
 
